@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FrontEnd Development and Cloud Development<br>👯 I’m looking to collaborate on various topics including DSA and Algorithms, and any new technologies which are very interesting and trending in the era<br>🤝 I’m looking for help with FrontEnd Development<br>🌱 I’m currently learning Python, CP, Cloud Dev, and Front End Dev<br>💬 Ask me about anything<br>⚡ Fun fact: I do LIE a lot.<br>"I suck at almost everything", so nothing much here
+🔭 I’m currently working on FrontEnd Development and Cloud Development<br>👯 I’m looking to collaborate on various topics including DSA and Algorithms, and any new technologies which are very interesting and trending in the era<br>🤝 I’m looking for help with Fullstack Development<br>🌱 I’m currently learning AI, CP, Backend Dev, and Front End Dev<br>💬 Ask me about anything<br>⚡ 
 
 
 ## 🌐 Socials:
